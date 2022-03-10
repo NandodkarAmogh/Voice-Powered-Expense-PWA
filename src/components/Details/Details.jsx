@@ -11,7 +11,7 @@ const Details = ({title}) => {
             <CardHeader title={title} />
             <CardContent>
                 <Typography variant='h5'>
-                     ₹50   
+                     ₹1000   
                 </Typography>
                 {/* <Doughnut data="DATA" /> */}
             </CardContent>
