@@ -40,8 +40,8 @@ A complex expense tracker powered by speechly. The users can either enter the ex
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Material UI](https://mui.com/)- Styling
-- [ChartJS] (https://www.npmjs.com/package/react-chartjs-2) - for visual representation of expenses
-- [Speechly] (https://www.speechly.com/) - for voice capabilities
+- [ChartJS](https://www.npmjs.com/package/react-chartjs-2) - for visual representation of expenses
+- [Speechly](https://www.speechly.com/) - for voice capabilities
 ### What I learned
 
 Through this complex expense tracker application I learned how to use Speechly and turn a react app into a progressive web app (PWA). I also learned to use local storage with react applications and use of chartjs for plotting the expenses 
